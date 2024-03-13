@@ -1,16 +1,29 @@
-### Hi there 👋
+### Biografie
 
-<!--
-**Tibet-dev/Tibet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, ich bin **Tibet**!
+Ich bin nicht wirklich sehr aktiv auf GitHub, und bin auch nicht der erfahrenste Entwickler. Trotzdem möchte ich mich euch gerne vorstellen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📆 Alter: 16 Jahre (Geburtstag: 12.Mai 2007)
+- 🫐 Geschlecht: Junge
+- 🗺️ Region: Baden-Württemberg
+- 🛂 Nationalität: Deutsch
+- 🌐 Ethnizitäten: Deutsch, Türkisch
+- 🗣️ Sprachen: Deutsch, Englisch, Türkisch, Französisch
+
+Ich arbeite gerade an folgenden Projekten:
+
+- ⚡ [Skydinse.net](https://github.com/skydinseofficial), als Entwickler und Administrator
+
+Meine Kentnisse:
+
+- 📗 Minecraft Skript
+- 🐍 Python
+- 💾 SQL
+- 🍀 MongoDB
+- 📯 Redis
+
+Ich wünsche dir viel Spaß, was auch immer du gerade machst.
+Wenn du mich kontaktieren möchtest, kannst du mich jederzeit auf discord unter meinem Tag `tibetp` anschreiben.
+
+Lg
