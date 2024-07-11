@@ -4,7 +4,7 @@
 Hi, ich bin **Tibet**!
 Ich bin nicht wirklich sehr aktiv auf GitHub, und bin auch nicht der erfahrenste Entwickler. Trotzdem möchte ich mich euch gerne vorstellen.
 
-- 📆 Alter: 16 Jahre (Geburtstag: 12.Mai 2007)
+- 📆 Alter: 17 Jahre (Geburtstag: 12.Mai 2007)
 - 🫐 Geschlecht: Junge
 - 🗺️ Region: Baden-Württemberg
 - 🛂 Nationalität: Deutsch
